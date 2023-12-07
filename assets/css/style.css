@@ -26,3 +26,22 @@ body {
   box-sizing: border-box;
   padding: 1%;
 }
+
+/* Gradient overlay to text created following www.fossheim.io/writing/posts/css-text-gradient/ */
+#game-heading {
+  font-family: "Rubik Mono One", sans-serif;
+  font-size: 2.5rem;
+  background-image: linear-gradient(
+    45deg,
+    rgb(219, 125, 47) 0%,
+    rgb(161, 15, 15) 0%,
+    rgb(249, 213, 0) 100%
+  );
+  text-shadow: 2px 4p 4px rgba(161, 15, 15, 0.6);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}

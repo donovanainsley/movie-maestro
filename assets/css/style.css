@@ -91,3 +91,33 @@ body {
   font-size: 2rem;
   margin-left: 1rem;
 }
+
+/* Modal CSS ---------------------------------------------------- */
+
+.modal {
+  margin-top: 20vh;
+}
+
+.modal-content {
+  background: linear-gradient(
+    45deg,
+    rgba(249, 213, 0) 0%,
+    rgba(219, 125, 47) 100%
+  );
+  border-radius: 5px;
+  outline: 2px solid #fff;
+  color: rgb(49, 52, 90);
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+
+.modal-title {
+  text-decoration: underline;
+}
+
+.modal p {
+  font-size: 1.5rem;
+}

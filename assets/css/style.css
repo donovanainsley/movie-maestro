@@ -16,3 +16,13 @@ body {
   height: 100vh;
   overflow: hidden;
 }
+
+#game-container {
+  background-color: rgb(49, 52, 90) !important;
+  width: 80%;
+  height: 80rem;
+  max-height: 30rem;
+  max-width: 50rem;
+  box-sizing: border-box;
+  padding: 1%;
+}

@@ -86,3 +86,8 @@ body {
 #highscore-btn:hover {
   box-shadow: 0 0.4rem 1.4rem 0 rgba(161, 15, 15, 1);
 }
+
+.fas {
+  font-size: 2rem;
+  margin-left: 1rem;
+}

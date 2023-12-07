@@ -127,3 +127,9 @@ body {
 .modal p {
   font-size: 1.5rem;
 }
+
+@media only screen and (max-width: 576px) {
+  .modal {
+    margin-top: auto;
+  }
+}

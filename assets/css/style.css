@@ -15,6 +15,7 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  color: rgb(255, 255, 255);
 }
 
 #game-container {
@@ -118,7 +119,6 @@ body {
 .modal-header {
   border-bottom: none;
 }
-
 
 .modal-title {
   text-decoration: underline;

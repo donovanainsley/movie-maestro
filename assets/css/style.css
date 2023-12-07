@@ -133,3 +133,9 @@ body {
     margin-top: auto;
   }
 }
+
+/* game.html css ---------------------------------------------------- */
+
+.hud-prefix {
+  font-size: 1.5rem;
+}

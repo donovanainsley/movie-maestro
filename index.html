@@ -21,12 +21,31 @@
     <link rel="icon" type="image/x-icon" href="./assets/images/clapperboard-favicon.png">
 </head>
 <body class="d-flex flex-column">
+    <!-- Game container created using bootstrap -->
     <div id="game-container" class="row mx-auto my-auto d-flex border border-light border-2 rounded-4 bg-light">
         <h1 id="game-heading" class="mt-3 d-flex justify-content-center align-items-center">Movie Maestro Quiz <i class="fas fa-clapperboard"></i></h1>
         <div id="home" class="my-auto">
             <a href="/" class="button mx-auto my-3 d-flex justify-content-center align-items-center">Begin Quiz <i class="fas fa-gamepad"></i></a>
             <a href="/" class="button mx-auto my-3 d-flex justify-content-center align-items-center">How to Play <i class="fas fa-circle-question"></i></a>
             <a href="/" class="button mx-auto my-3 d-flex justify-content-center align-items-center">Maestro <i class="fas fa-crown"></i></a>
+        </div>
+    </div>
+
+    <!-- How to play modal created using bootstrap -->
+    <div class="modal fade" id="how-to-play-modal" tabindex="-1" aria-labelledby="howToPlay" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLabel">How to Play</h2>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Embark on an exciting journey into the world of cinema with Movie Maestro Quiz!</p>
+                    <p>Designed for true movie enthusiasts, this quiz lets you showcase your film knowledge in an engaging
+                        and fun way.</p>
+                    <p>Save your high score on our leaderboard, then dive back in for another round and aim to beat it!</p>
+                </div>
+            </div>
         </div>
     </div>
 

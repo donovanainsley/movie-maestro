@@ -204,3 +204,20 @@ input::placeholder {
     font-size: 1rem;
   }
 }
+
+/* scores.html CSS  ------------------------------------------------ */
+
+#finalScore {
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+#high-score-list {
+  list-style: none;
+  font-size: 1.5rem;
+  padding: 0;
+}
+
+#highScores {
+  color: #fff;
+}

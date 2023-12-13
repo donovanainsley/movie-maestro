@@ -242,7 +242,7 @@ let questions = [
         choice1: "John Candy",
         choice2: "Wayne Knight",
         choice3: "John Goodman",
-        choice4: "Jack-Jack",
+        choice4: "Jack Black",
         answer: 3,
     },
     {

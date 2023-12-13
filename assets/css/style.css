@@ -165,6 +165,12 @@ body {
   width: 100%;
 }
 
+@media only screen and (max-width: 576px) {
+  .choice-text {
+    font-size: 1.2rem;
+  }
+}
+
 .correct {
   background: linear-gradient(
     32deg,
@@ -178,6 +184,12 @@ body {
     rgba(230, 29, 29, 1) 0%,
     rgba(224, 11, 11, 1) 100%
   );
+}
+
+@media only screen and (max-width: 576px) {
+  #game-container {
+    max-height: 34rem;
+  }
 }
 
 /* end.html CSS ---------------------------------------------------- */

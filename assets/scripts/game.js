@@ -297,3 +297,48 @@ getNewQuestion = () => {
     //Allows user ti select an answer.
     acceptingAnswers = true
 }
+
+//Function to shuffle and get subset of questions.
+questionList = (allQuestions, subsetSize) => {
+    const shuffledQuestions = allQuestions.sort(() => Math.random() - 0.5);
+    return shuffledQuestions.slice(0, subsetSize);
+}
+
+// Event listener for user choices
+choices.forEach(choice => {
+    choice.addEventListener('click', e => {
+         // Prevent answering if not in the accepting state.
+        if(!acceptingAnswers) return
+
+        // Update game state based on user choice.
+        acceptingAnswers = false
+        const selectedChoice = e.target
+        const selectedAnswer = selectedChoice.dataset['number']
+
+        let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
+
+        // Increment score if the answer is correct.
+        if(classToApply === 'correct') {
+            incrementScore(SCORE_POINTS)
+        }
+
+        // Apply styling to the selected choice.
+        selectedChoice.parentElement.classList.add(classToApply)
+
+        // Move to the next question after a delay.
+        setTimeout(() => {
+            selectedChoice.parentElement.classList.remove(classToApply)
+            getNewQuestion()
+
+        }, 1000)
+    })
+})
+
+// Function to increment the score./
+incrementScore = num => {
+    score += num
+    scoreText.innerText = score
+}
+
+//Start the game.
+startGame();

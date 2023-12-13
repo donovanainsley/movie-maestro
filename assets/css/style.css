@@ -233,3 +233,9 @@ input::placeholder {
 #highScores {
   color: #fff;
 }
+
+@media only screen and (max-width: 576px) {
+  #high-score-list {
+    font-size: 1.2rem;
+  }
+}

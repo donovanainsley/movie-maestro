@@ -230,7 +230,7 @@ let questions = [
         answer: 1,
     },
     {
-        question: "What are the Incredible\'s youngest son called?",
+        question: "What is the Incredible\'s youngest son called?",
         choice1: "Mad-Max",
         choice2: "Bam-Bam",
         choice3: "Jack Black",

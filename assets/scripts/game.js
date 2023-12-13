@@ -4,13 +4,14 @@ const choices = Array.from(document.getElementsByClassName("choice-text"));
 const progressText = document.getElementById("progress-text");
 const scoreText = document.getElementById("score");
 
+// Variables for game.
 let currentQuestion = {}
 let acceptingAnswers = true
 let score = 0
 let questionCounter = 0
 let availableQuestions = []
 
-// Varirbales to hold questions and asnwers.
+// Array to hold questions and asnwers.
 let questions = [
     {
         question: "What year did Marty and Doc travel to in Back to the Future?",
@@ -211,5 +212,45 @@ let questions = [
         choice3: "Guy Ritchie",
         choice4: "Christopher Nolan",
         answer: 3,
+    },
+    {
+        question: "Who played Mary Poppins in Disney\'s 1964 film of the same name?",
+        choice1: "Audrey Hepburn",
+        choice2: "Julie Andrews",
+        choice3: "Meryl Streep",
+        choice4: "Emma Thompson",
+        answer: 2,
+    },
+    {
+        question: "In which film is there a computer named V.I.K.I.?",
+        choice1: "I, Robot",
+        choice2: "Blade Runner",
+        choice3: "Ex Machina",
+        choice4: "Terminator",
+        answer: 1,
+    },
+    {
+        question: "What are the Incredible\'s youngest son called?",
+        choice1: "Mad-Max",
+        choice2: "Bam-Bam",
+        choice3: "Jack Black",
+        choice4: "Jack-Jack",
+        answer: 4,
+    },
+    {
+        question: "Who plays Fred Flintstone in the Flintstone\'s movie?",
+        choice1: "John Candy",
+        choice2: "Wayne Knight",
+        choice3: "John Goodman",
+        choice4: "Jack-Jack",
+        answer: 3,
+    },
+    {
+        question: "What movie genre is Frank Miller\'s Sin City? ",
+        choice1: "Comic",
+        choice2: "Neo-noir",
+        choice3: "Crime",
+        choice4: "Narrative",
+        answer: 2,
     }
 ]

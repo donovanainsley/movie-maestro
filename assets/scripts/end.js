@@ -9,9 +9,6 @@ const mostRecentScore = localStorage.getItem("mostRecentScore");
 //Retrieve high scores from local storage or create an empty array.
 const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
 
-// Constant for the maximum number of high scores to be stored.
-// const MAX_HIGH_SCORES = 5
-
 //Displays most recent scores on the page.
 finalScore.innerText = mostRecentScore;
 

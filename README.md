@@ -18,7 +18,7 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is loaded
 
     - The Merriweather font is the main font used throughout the website excluding the heading which is Rubik Mono One, which I stumbled across when using google fonts and thought it was brilliant for a header. I chose Merriweather after Googling the best Google fonts for websites and come across an article by Newbird which can be found [here](https://newbird.com/best-google-fonts-to-use-on-your-website/) where it was selected 1st of the 8 best Google fonts. As Merriweather is a Serif style font, I chose Sans-Serif as a backup font as it is considered the most web-safe font for readability.
 
-    - #### Imagery
+  - #### Imagery
 
     - The background image was found on Freepik [here](https://www.freepik.com/free-photo/videotape-with-clapperboard-3d-glasses_4305082.htm?query=video%20tape%20with%20popcorns#from_view=detail_alsolike).
 
@@ -57,7 +57,40 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is loaded
    - To convert images from jpeg to webp.
 1. [Red Ketchup:](https://redketchup.io/image-resizer)
    - To rezie images.
-1. [color-hex:](https://www.color-hex.com/color-palette/82815)
+1. [Color-hex:](https://www.color-hex.com/color-palette/82815)
    - Where I found the color palette for the webiste from a google search.
-1. [coolers:](https://coolors.co/ffffff-db7d2f-f9d500-a10f0f-31345a)
+1. [Coolers:](https://coolors.co/ffffff-db7d2f-f9d500-a10f0f-31345a)
    - Used to input color palette and export as an image.
+   
+## Deployment
+
+### Github Pages
+
+The project was deployed to GitHub Pages using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/donovanainsley/movie-maestro)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. On the left-hand side, you will see a sub-heading called "code and automation" with link called "Pages" click this link.
+4. Below the title "Build and Deployment" you will see "Source" click the dropdown called "None" and selct "Main".
+5. Next click the dropdown called "docs" and select "root" then save.
+6. The page will automatically refresh.
+7. At the top of the repositry there will be a box with a [Visit Site](https://donovanainsley.github.io/movie-maestro/index.html) button, to view the published website.
+
+### Fork Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/donovanainsley/movie-maestro)
+2. At the top of the Repository (not top of page) just below the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Clone Repository
+
+To clone the habits-and-fitness repository:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/donovanainsley/movie-maestro).
+2. Click the green "Code" button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+3. Open in the terminal in your code editor.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type git clone, and then paste the URL you copied in Step 2.
+6. Press enter. Your local clone has now been created.

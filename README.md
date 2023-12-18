@@ -12,18 +12,18 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
    - **First Time User Goals**
 
-   1. As a first time user, I want to know what the quiz is about and how to play.
-   1. As a first time user, I want the quiz to be fun and engaging.
-   1. As a first time user, I want to navigate through the quiz quickly and easily.
+      1. As a first time user, I want to know what the quiz is about and how to play.
+      1. As a first time user, I want the quiz to be fun and engaging.
+      1. As a first time user, I want to navigate through the quiz quickly and easily.
    
    - **Returning User Goals**
 
-   1. As a returning user, I want to view my previous scores so that I may improve them.
-   1. As a returning user, I'd like there to be a large pool of questions available to keep the game challenging and replayable.
+      1. As a returning user, I want to view my previous scores so that I may improve them.
+      1. As a returning user, I'd like there to be a large pool of questions available to keep the game challenging and replayable.
    
    - **Frequent User Goals**
 
-   - Frequent user goals would be the same as a returning user, due to the basic nature of the quiz.
+      - Frequent user goals would be the same as a returning user, due to the basic nature of the quiz.
 
 - ### Design
 

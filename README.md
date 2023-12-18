@@ -24,7 +24,6 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is loaded
 
     - The favicon was found from a google search for "clapperboard favicon" and can be found [here](https://www.flaticon.com/free-icon/clapperboard_371869?term=film+clapper&page=1&position=34&origin=tag&related_id=371869).
 
-
 ## Technologies Used
 
 ### Languages Used
@@ -62,21 +61,6 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is loaded
 1. [Coolers:](https://coolors.co/ffffff-db7d2f-f9d500-a10f0f-31345a)
    - Used to input color palette and export as an image.
 
-## Credits
-
-### Code
-
-1. [Bootstrap v5.3.2:](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-   - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the game-container aswell as styling and spacing.
-1. [Fossheim:](https://fossheim.io/writing/posts/css-text-gradient/)
-   - To create the css text gradient for the website heading.
-1. [Brian Design](https://www.youtube.com/watch?v=f4fB9Xg2JEY)
-   - Followed Brian Design's tutorial for making a quiz using HTML, CSS and Javascript used within the project.
-
-### Content
-
-Content for the website was written by the developer, [donovanainsley](https://github.com/donovanainsley) or adapted from the following sites [trivianerd](https://www.trivianerd.com/topic/film-trivia) and [parade](https://parade.com/977752/samuelmurrian/movie-trivia/).
-
 ## Deployment
 
 ### Github Pages
@@ -109,3 +93,33 @@ To clone the habits-and-fitness repository:
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type git clone, and then paste the URL you copied in Step 2.
 6. Press enter. Your local clone has now been created.
+
+## Credits
+
+### Code
+
+1. [Bootstrap v5.3.2:](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+   - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the game-container aswell as styling and spacing.
+1. [Fossheim:](https://fossheim.io/writing/posts/css-text-gradient/)
+   - To create the css text gradient for the website heading.
+1. [Brian Design](https://www.youtube.com/watch?v=f4fB9Xg2JEY)
+   - Followed Brian Design's tutorial for making a quiz using HTML, CSS and Javascript used within the project.
+
+### Content
+
+Content for the website was written by the developer, [donovanainsley](https://github.com/donovanainsley) or adapted from the following sites [trivianerd](https://www.trivianerd.com/topic/film-trivia) and [parade](https://parade.com/977752/samuelmurrian/movie-trivia/).
+
+### Media
+
+- Clapperboard favicon was sourced from [Flaticon](https://www.flaticon.com/).
+- Background image was sourced from [Freepik](https://www.freepik.com/).
+
+### Acknowledgements
+
+- [Iris Smok](https://github.com/Iris-Smok) - Cohort Facilitator
+
+- Irene Neville - Cohort Facilitator
+
+- Jack Wachira - Mentor: For feedback and insights when building my project.
+
+- June 2023 Cohort: An amazing group of like minded people, who are always there to support one another and I appreciate you all, thank you!

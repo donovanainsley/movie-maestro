@@ -115,6 +115,12 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 - The Chrome Developer Tools lighthouse feature was employed to assess performance, adherence to best practices, accessibility, and Search Engine Optimisation (SEO). Both desktop and mobile tests were conducted for each page. [View Mobile Index Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-index.png) | [View Mobile Game Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-game.png) | [View Mobile End Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-end.png) [View Mobile Scores Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-scores.png) | [View Desktop Index Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-index.png) | [View Desktop Game Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-game.png) | [View Desktop End Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-end.png) | [View Desktop Scores Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-scores.png)
 
+### Further Testing
+
+- The Website was tested on Google Chrome, Mozilla Firefox, Microsoft Edge and Safari browsers.
+- The website was viewed on a variety of devices such as Desktop, Macbook Pro, iPad, and Samsung Galaxy S20+.
+- Friends and Code Institue peers were asked to review the site to point out any bugs and/or user experience issues.
+
 ### Known Bugs
 
 - When validating code for index.html, an error was shown regarding the aria-labelledby attribute in the how to play modal incorrectly labelled. I provided the correct label and no further errors were shown. [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-final-result.png)

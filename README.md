@@ -12,18 +12,18 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
    - **First Time User Goals**
 
-      1. As a first time user, I want to know what the quiz is about and how to play.
-      1. As a first time user, I want the quiz to be fun and engaging.
-      1. As a first time user, I want to navigate through the quiz quickly and easily.
+   1. As a first time user, I want to know what the quiz is about and how to play.
+   1. As a first time user, I want the quiz to be fun and engaging.
+   1. As a first time user, I want to navigate through the quiz quickly and easily.
    
    - **Returning User Goals**
 
-      1. As a returning user, I want to view my previous scores so that I may improve them.
-      1. As a returning user, I'd like there to be a large pool of questions available to keep the game challenging and replayable.
+   1. As a returning user, I want to view my previous scores so that I may improve them.
+   1. As a returning user, I'd like there to be a large pool of questions available to keep the game challenging and replayable.
    
    - **Frequent User Goals**
 
-      - Frequent user goals would be the same as a returning user, due to the basic nature of the quiz.
+   - Frequent user goals would be the same as a returning user, due to the basic nature of the quiz.
 
 - ### Design
 
@@ -117,9 +117,9 @@ To clone the habits-and-fitness repository:
 
 ### Code
 
-1. [Bootstrap v5.3.2:](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+1. [Bootstrap v5.3.2](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
    - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the game-container aswell as styling and spacing.
-1. [Fossheim:](https://fossheim.io/writing/posts/css-text-gradient/)
+1. [Fossheim](https://fossheim.io/writing/posts/css-text-gradient/)
    - To create the css text gradient for the website heading.
 1. [Brian Design](https://www.youtube.com/watch?v=f4fB9Xg2JEY)
    - Followed Brian Design's tutorial for making a quiz using HTML, CSS and Javascript used within the project.

@@ -4,7 +4,7 @@
 
 [Access the live site here.](https://donovanainsley.github.io/movie-maestro/)
 
-Movie Maestro is a quiz game for movie enthusiasts where each question is loaded with a little bit of nostalgia. There 10 questions, all about movies, and try to beat your top score.
+Movie Maestro is a quiz game for movie enthusiasts where each question is infused with a touch of nostalgia. There are 10 questions to answer, all about movies. Play and then challenge yourself to beat your top score by playing again.
 
 - ### Design
 

@@ -93,13 +93,13 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
 The W3C Markup Validator, W3C CSS Validator and JSHint services were used to validate the projects pages to ensure there were no syntax errors.
 
- #### [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+#### [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
 
-   - [index.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-result.png)
-   - [game.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-validator-result.png)
-   - [end.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-validator-result.png)
-   - [scores.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/highscores-validator-result.png)
-   - [404.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/404-validator-result.png)
+- [index.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-result.png)
+- [game.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-validator-result.png)
+- [end.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-validator-result.png)
+- [scores.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/highscores-validator-result.png)
+- [404.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/404-validator-result.png)
 
 #### [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
@@ -113,6 +113,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 ### Lighthouse
 
+- The Chrome Developer Tools lighthouse feature was employed to assess performance, adherence to best practices, accessibility, and Search Engine Optimisation (SEO). Both desktop and mobile tests were conducted for each page. [View Mobile Index Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-index.png) | [View Mobile Game Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-game.png) | [View Mobile End Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-end.png) [View Mobile Scores Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-scores.png) | [View Desktop Index Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-index.png) | [View Desktop Game Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-game.png) | [View Desktop End Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-end.png) | [View Desktop Scores Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-scores.png)
 
 ### Known Bugs
 

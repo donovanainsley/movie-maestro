@@ -43,6 +43,13 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
     - The favicon was found from a google search for "clapperboard favicon" and can be found [here](https://www.flaticon.com/free-icon/clapperboard_371869?term=film+clapper&page=1&position=34&origin=tag&related_id=371869).
 
+## Features
+   - Responsive on all devicess.
+   - Easy to navigate using throughout the site.
+   - How to play modal, explaining the quizes purpose.
+   - A leaderboard that saves users score to the local storage allowing them to track high scores.
+   - A heads up display to display question count and user score.
+
 ## Technologies Used
 
 ### Languages Used

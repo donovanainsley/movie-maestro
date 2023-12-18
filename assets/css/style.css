@@ -38,7 +38,6 @@ body {
     rgb(161, 15, 15) 0%,
     rgb(249, 213, 0) 100%
   );
-  text-shadow: 2px 4p 4px rgba(161, 15, 15, 0.6);
   background-size: 100%;
   background-clip: text;
   -webkit-background-clip: text;
@@ -157,7 +156,7 @@ body {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 rgba(161, 15, 15, 1);
   transform: scale(1.02);
-  transform: transform 100ms;
+  transition: transform 100ms;
 }
 
 /* width is 100% of container so when choosing an answer you can click anywhere on the button */

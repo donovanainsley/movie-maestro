@@ -47,6 +47,7 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
 - Responsive on all devicess.
 - Easy to navigate using buttons throughout the site.
+- Answer choices display as green for correct choices and red for incorrect choices when selected, adding to the intuitiveness of the site.
 - How to play modal, explaining the quizes purpose.
 - A leaderboard that saves users score to the local storage allowing them to track high scores.
 - A heads up display to display question count and user score.
@@ -109,6 +110,9 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 - [game.js result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-js-validator-result.png)
 - [end.js result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-js-validator-result.png)
 - [scores.js result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/scores-js-validator-result.png)
+
+### Lighthouse
+
 
 ### Known Bugs
 

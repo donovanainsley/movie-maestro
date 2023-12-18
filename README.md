@@ -115,6 +115,15 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 - The Chrome Developer Tools lighthouse feature was employed to assess performance, adherence to best practices, accessibility, and Search Engine Optimisation (SEO). Both desktop and mobile tests were conducted for each page. [View Mobile Index Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-index.png) | [View Mobile Game Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-game.png) | [View Mobile End Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-end.png) [View Mobile Scores Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-mobile-scores.png) | [View Desktop Index Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-index.png) | [View Desktop Game Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-game.png) | [View Desktop End Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-end.png) | [View Desktop Scores Test](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/lighthouse-desktop-scores.png)
 
+### Testing User Stories from User Experience (UX) Section
+
+### First Time Visitor Goals
+
+1. As a first time user, I want to know what the quiz is about and how to play.
+
+   1. When opened on all device types, users are greeted to the quiz with three prominent buttons, "begin quiz", "how to play" and "maestro". Selecting "how to play" opens a modal which introduces users to the game and literally describes how to play the game. [View Here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/am-i-responsive.png).
+
+
 ### Further Testing
 
 - The Website was tested on Google Chrome, Mozilla Firefox, Microsoft Edge and Safari browsers.

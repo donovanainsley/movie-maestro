@@ -87,6 +87,29 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 1. [Coolers:](https://coolors.co/ffffff-db7d2f-f9d500-a10f0f-31345a)
    - Used to input color palette and export as an image.
 
+## Testing
+
+The W3C Markup Validator, W3C CSS Validator and JSHint services were used to validate the projects pages to ensure there were no syntax errors.
+
+   [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+
+- [index.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-result.png)
+- [game.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-validator-result.png)
+- [end.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-validator-result.png)
+- [scores.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/highscores-validator-result.png)
+- [404.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/404-validator-result.png)
+
+   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+- [style.css result]()
+
+
+### Known Bugs
+
+   - When validating code for index.html, an error was shown regarding the aria-labelledby attribute in the how to play modal incorrectly labelled. I provided the correct label and no further errors were shown. [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-final-result.png)
+
+   - When validating style.css, errors were shown for text-shadow in #game-heading and transform in .choice-container:hover. When correcting the text-shadow error, I realised I didn't like this part of the styling and completely removed it and corrected transform: transform 100ms to transition: transform 100ms. [View here]()
+
 ## Deployment
 
 ### Github Pages

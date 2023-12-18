@@ -114,7 +114,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 - When validating style.css, errors were shown for text-shadow in #game-heading and transform in .choice-container:hover. When correcting the text-shadow error, I realised I didn't like this part of the styling and completely removed it and corrected transform: transform 100ms to transition: transform 100ms. [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/css-validator-final-result.png)
 
-- [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-js-validator-final-result.png)
+- When testing the game.js, warnings were given for missing semi-colons and to change selectedChoice.dataset['number'] to selectedChoice.dataset.number. To see changes [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-js-validator-final-result.png).
 
 ## Deployment
 

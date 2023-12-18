@@ -1,8 +1,8 @@
 //Constant to access high-score-list.
-const highScoresList = document.getElementById("high-score-list")
+const highScoresList = document.getElementById("high-score-list");
 
 //Retrieve highScores from local storage.
-const highScores = JSON.parse(localStorage.getItem("highScores")) || []
+const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 
 //Setting the html content of highScoresList using retrieved high scores.
 highScoresList.innerHTML = 

@@ -10,20 +10,20 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
 - ### User Stories
 
-   - **First Time User Goals**
+  - **First Time User Goals**
 
-      1. As a first time user, I want to know what the quiz is about and how to play.
-      1. As a first time user, I want the quiz to be fun and engaging.
-      1. As a first time user, I want to navigate through the quiz quickly and easily.
-   
-   - **Returning User Goals**
+    1. As a first time user, I want to know what the quiz is about and how to play.
+    1. As a first time user, I want the quiz to be fun and engaging.
+    1. As a first time user, I want to navigate through the quiz quickly and easily.
 
-      1. As a returning user, I want to view my previous scores so that I may improve them.
-      1. As a returning user, I'd like there to be a large pool of questions available to keep the game challenging and replayable.
-   
-   - **Frequent User Goals**
+  - **Returning User Goals**
 
-      - Frequent user goals would be the same as a returning user, due to the basic nature of the quiz.
+    1. As a returning user, I want to view my previous scores so that I may improve them.
+    1. As a returning user, I'd like there to be a large pool of questions available to keep the game challenging and replayable.
+
+  - **Frequent User Goals**
+
+    - Frequent user goals would be the same as a returning user, due to the basic nature of the quiz.
 
 - ### Design
 
@@ -44,11 +44,12 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
     - The favicon was found from a google search for "clapperboard favicon" and can be found [here](https://www.flaticon.com/free-icon/clapperboard_371869?term=film+clapper&page=1&position=34&origin=tag&related_id=371869).
 
 ## Features
-   - Responsive on all devicess.
-   - Easy to navigate using throughout the site.
-   - How to play modal, explaining the quizes purpose.
-   - A leaderboard that saves users score to the local storage allowing them to track high scores.
-   - A heads up display to display question count and user score.
+
+- Responsive on all devicess.
+- Easy to navigate using buttons throughout the site.
+- How to play modal, explaining the quizes purpose.
+- A leaderboard that saves users score to the local storage allowing them to track high scores.
+- A heads up display to display question count and user score.
 
 ## Technologies Used
 
@@ -91,24 +92,29 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
 The W3C Markup Validator, W3C CSS Validator and JSHint services were used to validate the projects pages to ensure there were no syntax errors.
 
-   [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+ #### [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
 
-- [index.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-result.png)
-- [game.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-validator-result.png)
-- [end.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-validator-result.png)
-- [scores.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/highscores-validator-result.png)
-- [404.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/404-validator-result.png)
+   - [index.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-result.png)
+   - [game.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-validator-result.png)
+   - [end.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-validator-result.png)
+   - [scores.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/highscores-validator-result.png)
+   - [404.html result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/404-validator-result.png)
 
-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+#### [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-- [style.css result]()
+- [style.css result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/css-validator-result.png)
 
+#### [JSHint Javascript Quality Tool](https://jshint.com/)
+
+- [game.js result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-js-validator-result.png)
 
 ### Known Bugs
 
-   - When validating code for index.html, an error was shown regarding the aria-labelledby attribute in the how to play modal incorrectly labelled. I provided the correct label and no further errors were shown. [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-final-result.png)
+- When validating code for index.html, an error was shown regarding the aria-labelledby attribute in the how to play modal incorrectly labelled. I provided the correct label and no further errors were shown. [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index-validator-final-result.png)
 
-   - When validating style.css, errors were shown for text-shadow in #game-heading and transform in .choice-container:hover. When correcting the text-shadow error, I realised I didn't like this part of the styling and completely removed it and corrected transform: transform 100ms to transition: transform 100ms. [View here]()
+- When validating style.css, errors were shown for text-shadow in #game-heading and transform in .choice-container:hover. When correcting the text-shadow error, I realised I didn't like this part of the styling and completely removed it and corrected transform: transform 100ms to transition: transform 100ms. [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/css-validator-final-result.png)
+
+- [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-js-validator-final-result.png)
 
 ## Deployment
 

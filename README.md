@@ -108,6 +108,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 - [game.js result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-js-validator-result.png)
 - [end.js result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-js-validator-result.png)
+- [scores.js result](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/scores-js-validator-result.png)
 
 ### Known Bugs
 
@@ -118,6 +119,8 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 - When testing game.js, warnings were given for missing semi-colons and to change selectedChoice.dataset['number'] using dot notation to selectedChoice.dataset.number. To see changes [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game-js-validator-final-result.png).
 
 - When testing end.js, warnings were showing for missing semi-colons and the variable "MAX_HIGH_SCORES = 5" was unused. I input the missing semi-colons and initially commented out the unused variable to ensure it wouldn't create any issues with the remaining code. Once I ran through the the quiz I concluded that the removal of "MAX_HIGH_SCORES = 5" didn't create any issues and permanently removed the variable from end.js. [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-js-validator-final-result.png).
+
+- When testing scores.js, warnings for missing semi-colons were shown. Once the semi-colons were input the warnings were removed. [View here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/scores-js-validator-final-result.png).
 
 ## Deployment
 

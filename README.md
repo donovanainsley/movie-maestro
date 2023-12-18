@@ -61,7 +61,22 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is loaded
    - Where I found the color palette for the webiste from a google search.
 1. [Coolers:](https://coolors.co/ffffff-db7d2f-f9d500-a10f0f-31345a)
    - Used to input color palette and export as an image.
-   
+
+## Credits
+
+### Code
+
+1. [Bootstrap v5.3.2:](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+   - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the game-container aswell as styling and spacing.
+1. [Fossheim:](https://fossheim.io/writing/posts/css-text-gradient/)
+   - To create the css text gradient for the website heading.
+1. [Brian Design](https://www.youtube.com/watch?v=f4fB9Xg2JEY)
+   - Followed Brian Design's tutorial for making a quiz using HTML, CSS and Javascript used within the project.
+
+### Content
+
+Content for the website was written by the developer, [donovanainsley](https://github.com/donovanainsley) or adapted from the following sites [trivianerd](https://www.trivianerd.com/topic/film-trivia) and [parade](https://parade.com/977752/samuelmurrian/movie-trivia/).
+
 ## Deployment
 
 ### Github Pages

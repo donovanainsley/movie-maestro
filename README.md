@@ -141,7 +141,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
       1. When users have completed the quiz, they arrive at end.html where they're invited to enter their username [view here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-buttons.png) which will then be stored to the local storage and displayed in scores.html, which they are automatically taken too when the select the save button.[View Here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/scores.png).
    
-    1. As a returning user, I'd like there to be a large pool of questions available to keep the game challenging and replayable.
+   1. As a returning user, I'd like there to be a large pool of questions available to keep the game challenging and replayable.
 
       1. This is accomplished with the let questions array in game.js [view here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/scripts/game.js).
    

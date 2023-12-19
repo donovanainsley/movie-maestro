@@ -121,8 +121,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 1. As a first time user, I want to know what the quiz is about and how to play.
 
-   1. When opened on all device types, users are greeted to the quiz with three prominent buttons, "begin quiz", "how to play" and "maestro". Selecting "how to play" opens a modal which introduces users to the game and literally describes how to play the game. [View Here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/am-i-responsive.png).
-
+   1. When opened on all device types, users are greeted to the quiz with three prominent buttons, "begin quiz", "how to play" and "maestro". Selecting "how to play" opens a modal which introduces users to the game and literally describes how to play the game. [View Index Here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/am-i-responsive.png). [View Modal Here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/am-i-responsive-modal.png)
 
 ### Further Testing
 

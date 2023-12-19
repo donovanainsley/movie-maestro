@@ -131,15 +131,15 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
    1. This is achieved through the use of clearly labelled buttons with font awesome icons used to support the labelling with "begin quiz" having a gamepad icon, "how to play" an encircled question mark and "maestro" a crown. [View Here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/am-i-responsive.png).
 
-   1. When playing the game, each available answer is labelled A to D. When selecting the correct answer the button will flash green [view here]() before moving on and red [view here]() if the selected answer is incorrect. This allows user move through the quiz quickly and easily.
+   1. When playing the game, each available answer is labelled A to D. When selecting the correct answer the button will flash green [view here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/correct-button.png) before moving on and red [view here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/incorrect-button.png) if the selected answer is incorrect. This allows user move through the quiz quickly and easily.
 
-   1. When users have completed the quiz, they arrive at end.html, where they're invited to save their score, play again or return to the home screen. Each of these buttons is aligned with a font awesome icon to support its intent, the "save" button having a floppy disk, "play again" a gamepad and "home" a house. [View Here]()
+   1. When users have completed the quiz, they arrive at end.html, where they're invited to save their score, play again or return to the home screen. Each of these buttons is aligned with a font awesome icon to support its intent, the "save" button having a floppy disk, "play again" a gamepad and "home" a house. [View Here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-buttons.png)
 
 ### Returning User Goals
 
    1. As a returning user, I want to view my previous scores so that I may improve them.
 
-      1. When users have completed the quiz, they arrive at end.html where they're invited to enter their username [view here]() which will then be stored to the local storage and displayed in scores.html, which they are automatically taken too when the select the save button.[View Here]().
+      1. When users have completed the quiz, they arrive at end.html where they're invited to enter their username [view here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end-buttons.png) which will then be stored to the local storage and displayed in scores.html, which they are automatically taken too when the select the save button.[View Here](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/scores.png).
 
 
 ### Further Testing

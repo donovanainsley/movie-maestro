@@ -139,10 +139,6 @@ body {
   font-size: 1.5rem;
 }
 
-#question {
-  text-transform: capitalize;
-}
-
 .choice-container {
   display: flex;
   margin-bottom: 0.8rem;
@@ -208,7 +204,6 @@ input::placeholder {
 
 #end {
   color: #fff;
-  text-transform: capitalize;
 }
 
 #save-score {

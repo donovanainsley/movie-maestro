@@ -214,7 +214,7 @@ let questions = [
         answer: 3,
     },
     {
-        question: "Who played Mary Poppins in Disney\'s 1964 film of the same name?",
+        question: "Who played Mary Poppins in Disney\'s film of the same name?",
         choice1: "Audrey Hepburn",
         choice2: "Julie Andrews",
         choice3: "Meryl Streep",

@@ -110,11 +110,11 @@ let questions = [
         answer: 4,
     },
     {
-        question: "Who wrote the screenplay for Rocky?",
-        choice1: "Quentin Tarantino",
-        choice2: "Sylvester Stallone",
-        choice3: "Martin Scorsese",
-        choice4: "Arnold Schwarzenegger",
+        question: "Who played winston \'the wolf\' in pulp fiction?",
+        choice1: "Tim Roth",
+        choice2: "Harvey Keitel",
+        choice3: "Bruce Willis",
+        choice4: "Ving Rhames",
         answer: 2,
     },
     {
@@ -214,7 +214,7 @@ let questions = [
         answer: 3,
     },
     {
-        question: "Who played Mary Poppins in Disney\'s film of the same name?",
+        question: "Who played Mary Poppins in Disney\'s 1964 film of the same name?",
         choice1: "Audrey Hepburn",
         choice2: "Julie Andrews",
         choice3: "Meryl Streep",

@@ -61,6 +61,7 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 - How to play modal, explaining the quizes purpose.
 - A leaderboard that saves users score to the local storage allowing them to track high scores.
 - A heads up display to display question count and user score.
+- A 404 page if the incorrect URL is entered.
 
 ### Future Features
 

@@ -43,6 +43,16 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
     - The favicon was found from a google search for "clapperboard favicon" and can be found [here](https://www.flaticon.com/free-icon/clapperboard_371869?term=film+clapper&page=1&position=34&origin=tag&related_id=371869).
 
+* ### Wireframes
+
+   1. I chose to structure the quiz to consistently appear at the center of any viewport by utilizing Bootstrap's d-flex flex-column. As a result, I only developed wireframes for the desktop viewport, as achieving the centered display across all viewports was achieved.
+
+   - [Index](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/index.html.png)
+   - [Game](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/game.html.png)
+   - [End](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/end.html.png)
+   - [Scores](https://github.com/donovanainsley/movie-maestro/blob/main/assets/testing/scores.html.png)
+
+
 ## Features
 
 - Responsive on all devicess.
@@ -90,6 +100,8 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
    - To rezie images.
 1. [Color-hex:](https://www.color-hex.com/color-palette/82815)
    - Where I found the color palette for the webiste from a google search.
+1. [Balsamiq:](https://balsamiq.com/)
+   - Used to create the wireframes.
 1. [Coolers:](https://coolors.co/ffffff-db7d2f-f9d500-a10f0f-31345a)
    - Used to input color palette and export as an image.
 

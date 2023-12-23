@@ -67,6 +67,10 @@ Movie Maestro is a quiz game for movie enthusiasts where each question is infuse
 
 - I would like to add the theme tune for the British film review tv show hosted by Barry Norman called "Film", that was written by Billy Taylor, subject to finding a free copyright. [Listen here](https://www.youtube.com/watch?v=jlH_XFuf3wU).
 
+- I'd like to export the questions from game.js into its own module to reduce the amount of code in game.js
+
+- I'd like to create a difficulty selector that increases the number of questions available per difficulty, allowing users to score higher than the current maximum score of 100. This would significantly enhance engagement of the quiz.
+
 ## Technologies Used
 
 ### Languages Used

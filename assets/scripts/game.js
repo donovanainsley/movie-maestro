@@ -1,3 +1,5 @@
+// I followed a tutorial by Brian Design on YouTube for the structure of the game https://www.youtube.com/watch?v=f4fB9Xg2JEY.
+
 // Constants for accessing elements.
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
